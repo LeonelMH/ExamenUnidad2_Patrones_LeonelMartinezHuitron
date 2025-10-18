@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXAMEN_U2_ObjectPool_And_Singleton", "EXAMEN_U2_ObjectPool_And_Singleton\EXAMEN_U2_ObjectPool_And_Singleton.csproj", "{AFA3C516-297D-4AF1-9D0C-45C13D752456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA3C516-297D-4AF1-9D0C-45C13D752456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA3C516-297D-4AF1-9D0C-45C13D752456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA3C516-297D-4AF1-9D0C-45C13D752456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA3C516-297D-4AF1-9D0C-45C13D752456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE3A974A-E8BD-40D8-BF94-2178E2936C79}
+	EndGlobalSection
+EndGlobal
